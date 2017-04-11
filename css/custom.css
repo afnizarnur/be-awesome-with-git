@@ -10,6 +10,9 @@ img {
 body {
   background: #e6e6e6 !important; }
 
+.slides mark {
+  background: white; }
+
 .slides section.title h1 {
   font-family: "Nunito", sans-serif !important; }
 

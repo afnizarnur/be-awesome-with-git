@@ -14,6 +14,10 @@ body {
 }
 
 .slides {
+  mark {
+    background: white;
+  }
+
   section.title {
     h1 {
       font-family: 'Nunito', sans-serif!important;
