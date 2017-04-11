@@ -20,6 +20,7 @@ body {
     }
     hr {
       border: 4px solid lighten(#000, 80%);
+      width: 20%;
       border-radius: 1000px;
     }
   }
@@ -48,6 +49,9 @@ body {
     h3 {
       text-transform: capitalize!important;
       font-weight: 500;
+    }
+    p {
+      font-weight: 300;
     }
   }
 
