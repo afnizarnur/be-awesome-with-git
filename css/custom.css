@@ -13,6 +13,11 @@ body {
 .slides mark {
   background: white; }
 
+.slides code {
+  font-family: monospace !important;
+  background: white;
+  padding: 5px 10px; }
+
 .slides section.title h1 {
   font-family: "Nunito", sans-serif !important; }
 
