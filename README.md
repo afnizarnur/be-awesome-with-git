@@ -1,6 +1,5 @@
 # Be Awesome with Git 😎
-This slide teach you what is benefit using Git, why we should using Git, how to use Git in right way!
-See the slide on [Speakerdeck](https://speakerdeck.com/afnizarnur/be-awesome-with-git).
+This slide teach you what is benefit using Git, why we should using Git, how to use Git in right way. See the slide on [Speakerdeck](https://speakerdeck.com/afnizarnur/be-awesome-with-git).
 
 ## References
 - [Wikipedia](https://en.wikipedia.org/wiki/Git)
